@@ -17,8 +17,11 @@ const Hero = () => {
         <div className="mb-6 inline-block px-4 py-1.5 rounded-full border border-slate-700 bg-slate-800/50 text-xs font-semibold text-brand-400 uppercase tracking-wider">
           v2.0 is now live
         </div>
-        <h1 className="text-5xl md:text-7xl font-extrabold tracking-tight mb-8 leading-tight">
-          Files that <span className="text-transparent bg-clip-text bg-gradient-to-r from-brand-400 to-purple-400">evolve</span> with your data.
+        <h1 className="text-6xl md:text-8xl font-black tracking-tighter mb-8 leading-[0.9]">
+          The Future of <br/>
+          <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 via-indigo-400 to-purple-500">
+            Intelligent Files.
+          </span>
         </h1>
         <p className="text-lg md:text-xl text-slate-400 max-w-2xl mx-auto mb-10 leading-relaxed">
           Stop serving stale content. FluxFile creates living documents that update in real-time as your database changes.
